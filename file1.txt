@@ -1,0 +1,3 @@
+this is my first line
+this happens to be 2nd line
+finally this is the last line
