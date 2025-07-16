@@ -1,3 +1,7 @@
 this is my first line
 this happens to be 2nd line
 finally this is the last line
+new line added
+line 5
+line 6
+lin7
